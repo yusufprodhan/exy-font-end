@@ -1,0 +1,27 @@
+/*-----------------------------------------------------------
+* Template Name    : EXY || KIGARUNIHOIKU web system
+* Author           : KIGARUNIHOIKU
+* Version          : 1.0.0
+* Created          : June 2021
+*------------------------------------------------------------
+*/
+
+@import "~bootstrap/scss/bootstrap";
+@import "~vue-select/src/scss/vue-select";
+@import "reset";
+@import "style";
+@import "common";
+@import "guardian";
+@import "cocoro";
+@import "childcare";
+@import "profile";
+@import "mypage";
+@import "pagestylesheet";
+@import "responsive";
+
+// Admin CSS
+@import "admin";
+@import "scladminchildinfo";
+@import "childcareinformation";
+
+@import "~toastr";

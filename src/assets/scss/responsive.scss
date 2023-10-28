@@ -1,0 +1,17 @@
+@media only screen and (max-width: 991px) {
+    .br {
+        display: none;
+    }
+    
+    .navbar {
+        .navbar-collapse {
+            text-align: center;
+        }
+    }
+}
+
+@media (max-width: 767px) {
+    .visibility-hidden {
+        display: none;
+    }
+}
